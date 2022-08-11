@@ -4,7 +4,6 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
    <application
         android:label="engez"
-        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyA6pqUxVRxuv5mV0-RWjGl2Qg-wIsZA6PY"/>
         <activity

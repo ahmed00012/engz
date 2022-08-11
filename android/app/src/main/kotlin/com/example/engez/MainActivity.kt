@@ -1,4 +1,4 @@
-package com.example.engez
+package com.icontds.engz
 
 import io.flutter.embedding.android.FlutterActivity
 
