@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "1011654552126",
+    "project_id": "ingz-a5bbb",
+    "storage_bucket": "ingz-a5bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011654552126:android:ac757d3bee98038199ff6f",
+        "android_client_info": {
+          "package_name": "com.icontds.engz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011654552126-3am0efm8oltfnfofh85co6qtfd8ossb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icontds.engz",
+            "certificate_hash": "16fb18e2f0853fd49dda9bb99b315c158e1158ae"
+          }
+        },
+        {
+          "client_id": "1011654552126-gqt2aql32a76qejmeo2bn3m04mf0k85h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icontds.engz",
+            "certificate_hash": "48ee9ee13dac14b1ddc9187586ca7f0aa8d877c2"
+          }
+        },
+        {
+          "client_id": "1011654552126-o7jcruodsdk8tvnngl0acudpvlrcbn0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icontds.engz",
+            "certificate_hash": "b94c744d2069b5cad5a78f24cbf68685e344d064"
+          }
+        },
+        {
+          "client_id": "1011654552126-t0qbftbsc5n22ro0oq07tf5dlagibc0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icontds.engz",
+            "certificate_hash": "e637b8e8e4c1159d3e490f1281221df06f79bc13"
+          }
+        },
+        {
+          "client_id": "1011654552126-9bbjrq819ej3ri0ulu1aj05pel70vt8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDviu9FEmRRkXd3CtBPhp5XG5bIEEyPjQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011654552126-9bbjrq819ej3ri0ulu1aj05pel70vt8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011654552126-ak8uk6q2hg1cafn12m15evh53f0k4bhm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icontds.ingez"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
